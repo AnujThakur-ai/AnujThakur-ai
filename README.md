@@ -32,12 +32,12 @@ I'm good with **Python programming**, and I also have working knowledge of **HTM
 ## 📚 Currently Learning
 
 - 🧠 **OOP Concepts in Python**
-- 🔄 **Python Modules (OS, Random, etc.)**
+- 🔁 **Python Modules (OS, Random, etc.)**
 - 📊 **Matplotlib & Data Visualization**
 - 🤖 **Machine Learning Projects** from [Krish Naik (YouTube)](https://www.youtube.com/@KrishNaik)
-- 🧠 **Data Science Specialization** via **Coursera**
+- 📘 **Data Science Specialization** via **Coursera**
 
-> ❌ Web Development is **NOT** currently ongoing.
+> ❌ Full-stack Web Development is **not ongoing**.
 
 ---
 
@@ -56,9 +56,9 @@ I'm good with **Python programming**, and I also have working knowledge of **HTM
 
 ## 🧪 Projects In Progress
 
-- 📊 **Netflix Data Analysis** using Pandas
-- 📈 **Stock Price Prediction** using Python
-- 🧹 **Automation Scripts for Data Cleaning**
+- 📈 **Netflix Data Analysis** using Pandas
+- 📊 **Stock Price Prediction** using Python
+- 🤖 **Automation Scripts for Data Cleaning**
 
 ---
 
@@ -79,7 +79,7 @@ I'm good with **Python programming**, and I also have working knowledge of **HTM
     <img src="https://img.shields.io/badge/Instagram-anuj__kuma__r__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
-  <a href="https://www.facebook.com/anuj.kumar.thakur.735" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100082820671779" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-अनुज%20कुमार%20ठाकुर-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
@@ -97,7 +97,7 @@ I'm good with **Python programming**, and I also have working knowledge of **HTM
 
 ---
 
-## 🧠 What I Believe
+## 💬 What I Believe
 
 > 💬 **"Code is not just logic, it's a way of thinking, building, and sharing ideas with the world."**
 
