@@ -93,8 +93,8 @@ I love crafting **predictive models**, uncovering **hidden insights**, and trans
 ## <img src="https://raw.githubusercontent.com/Shahriar-Shamim/Shahriar-Shamim/main/icons/connect.gif" width="30"/> <span style="color:#8BE9FD;">// CONNECT & COLLABORATE 🤝</span>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anuj-kumar-thakur">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.hackerrank.com/profile/anujkumart34">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
   </a>
   <a href="mailto:anujkumart34@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
